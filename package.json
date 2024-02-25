@@ -1,0 +1,26 @@
+{
+  "name": "shopify-nav-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolo19950603/shopify-nav-integration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lolo19950603/shopify-nav-integration/issues"
+  },
+  "homepage": "https://github.com/lolo19950603/shopify-nav-integration#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "shopify-api-node": "^3.13.1"
+  }
+}
